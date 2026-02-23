@@ -28,11 +28,11 @@ Building AI-driven products at the intersection of finance, blockchain, and auto
 
 ### What I Build
 
-**[TSFC](https://github.com/SZ-TSFC)** — CEO & Co-founder
+**[TSFC](https://tsfc.io)** — CEO & Co-founder
 Web3 trading platform with proprietary AI-driven counter-trend system leveraging three original geometric market models. Switzerland.
 
 **[Digital Assets Capital](https://da-capital.io)** — CEO & Founder
-Crypto asset management & consulting for blockchain projects on token launches, tokenomics design, and market entry strategies.
+Private IT-research company: trading strategies, software development, market research, and private investments in digital projects.
 
 **[smik.ai](https://smik.ai)** — Co-founder & CTO
 AI-powered Social Media Management SaaS. Monorepo on Next.js 15, BullMQ workers, Stripe billing, multi-tenant architecture.
