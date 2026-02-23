@@ -18,7 +18,7 @@ Building AI-driven products at the intersection of finance, blockchain, and auto
 
 ### About
 
-<img src="https://flagcdn.com/20x15/ch.png" alt="Switzerland">&nbsp;Switzerland&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://flagcdn.com/20x15/pl.png" alt="Poland">&nbsp;Poland&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://flagcdn.com/20x15/il.png" alt="Israel">&nbsp;Israel
+<img src="https://flagcdn.com/20x15/ch.png" alt="Switzerland">&nbsp;Switzerland&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/20x15/pl.png" alt="Poland">&nbsp;Poland&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/20x15/il.png" alt="Israel">&nbsp;Israel
 
 🏗️ Building AI-driven products in finance & blockchain<br>
 📈 8+ years in crypto & quantitative trading<br>
