@@ -35,10 +35,10 @@ Web3 trading platform with proprietary AI-driven counter-trend system leveraging
 Private IT-research company: trading strategies, software development, market research, and private investments in digital projects.
 
 **[smik.ai](https://smik.ai)** — Co-founder & CTO
-AI-powered Social Media Management SaaS. Monorepo on Next.js 15, BullMQ workers, Stripe billing, multi-tenant architecture.
+AI-powered Social Media Management platform. Auto-generates content, schedules posts, and manages multiple brands from a single dashboard.
 
 **[Project Armor](https://project-armor.io)** — Co-founder
-First data-driven computer club in Warsaw — an experiment in digitalization and AI-powered automation of a real-world business. Premium gaming arena, 24/7, RTX 4070.
+First data-driven computer club in Warsaw — an experiment in digitalization and AI-powered automation of a real-world business.
 
 ### Pet Projects
 
@@ -52,7 +52,7 @@ First data-driven computer club in Warsaw — an experiment in digitalization an
 
 ### Current Research
 
-**[Geometry of Price](https://github.com/ProfitChef/tactica-adversa-by-gusinski)** — Academic study investigating geometric price analysis as a market research methodology. 9 research directions, 50+ peer-reviewed sources.
+**[The Mathematical Failure of Risk-Adjusted Performance Metrics in Cryptocurrency Markets](https://medium.com/@tsfc.io/the-mathematical-failure-of-risk-adjusted-performance-metrics-in-cryptocurrency-markets-a-19649928900f)** — A study on why Sharpe, Sortino, and Calmar ratios systematically fail in non-Gaussian crypto environments.
 
 ### Tech Stack
 
@@ -60,10 +60,15 @@ First data-driven computer club in Warsaw — an experiment in digitalization an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Pine Script](https://img.shields.io/badge/Pine_Script-131622?style=flat-square&logo=tradingview&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-1C1E26?style=flat-square&logo=aave&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -77,9 +82,6 @@ First data-driven computer club in Warsaw — an experiment in digitalization an
 ### GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ProfitChef&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfitChef&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProfitChef&theme=github-dark-blue&hide_border=true)](https://github.com/ProfitChef)
 
