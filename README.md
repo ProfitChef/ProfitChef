@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pavel Gusev
+# Pavel Gusinski
 
 **Entrepreneur & Quant Trader**
 
@@ -20,10 +20,10 @@ Building AI-driven products at the intersection of finance, blockchain, and auto
 
 🇨🇭 Switzerland · 🇵🇱 Poland · 🇮🇱 Israel
 
-🏗️ Building AI-driven products in finance & blockchain
-📈 8+ years in crypto & quantitative trading
-🎓 MGIMO — IT in International Business
-🎤 Speaker at digital economy forums
+🏗️ Building AI-driven products in finance & blockchain<br>
+📈 8+ years in crypto & quantitative trading<br>
+🎓 MGIMO — IT in International Business<br>
+🎤 Speaker at digital economy forums<br>
 🏫 Former lecturer on blockchain & DeFi (MGIMO, SPBU)
 
 ### What I Build
